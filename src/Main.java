@@ -47,7 +47,13 @@ public class Main {
         System.out.println("The remainder of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleModulo);
 
         //currency is not done in int, it is done in double
+        //examples of variables
 
+        double subscriptionCost = 14.00;
+        boolean isSubscribed = true;
+        int numOfFreeCompanyMembers = 6;
+
+        //I couldn't find out how to use String variable type.
 
     }
 }
